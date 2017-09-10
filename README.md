@@ -1,4 +1,4 @@
-# bangazon-ERD
+# Bangazon ERD
 
 [View ERD (in progress)](https://drive.google.com/file/d/0B0uxvTLqDKpsU1hDYjYtd1gweVE/view?usp=sharing)
 
